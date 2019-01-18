@@ -1,0 +1,9 @@
+[ossvizdb]
+host=127.0.0.1
+port=27017
+auth_user=ossvizadmin
+auth_pwd=frontiir
+auth_db=ossvizdb
+selection_timeout=50000
+socket_timeout=50000
+connect_timeout=50000
